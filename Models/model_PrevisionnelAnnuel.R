@@ -44,4 +44,10 @@ summary(modeleReg)
 
 
 # La fonction predict() permet de prédire la valeur de y (i.e du prix) pour de nouvelles données (des variables explicatives). Seul les deux premiers arguments sont requis : se.fit permet d'afficher l'écart-type de la valeur prédite, et interval et level permettent afficher ici les valeurs de l'intervalle de confiance fixé à 99%.
-predict(modeleReg, test, se.fit = TRUE, interval = "prediction", level = 0.99)
+# predict(modeleReg, test, se.fit=TRUE, interval = "prediction", level = 0.99)
+
+
+res = predict(modeleReg, test)
+res 
+
+write.csv(res, file ="C:\\Users\\Loïc\\Downloads\\Data_Mining\\projet\\Alphaprise_previsionAnnuel_predict_test.csv")
