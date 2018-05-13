@@ -44,11 +44,13 @@
 <entry key="31" type="xstring" value="P30"/>
 </config>
 <config key="excluded_names">
-<entry key="array-size" type="xint" value="4"/>
+<entry key="array-size" type="xint" value="6"/>
 <entry key="0" type="xstring" value="Secteur1"/>
 <entry key="1" type="xstring" value="Secteur2"/>
 <entry key="2" type="xstring" value="CapaciteEmprunt"/>
 <entry key="3" type="xstring" value="PrevisionnelAnnuel"/>
+<entry key="4" type="xstring" value="Mean"/>
+<entry key="5" type="xstring" value="Median"/>
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
 <config key="name_pattern">
@@ -89,12 +91,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 11566, Cols: 35"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 11566, Cols: 32"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="ff9ee76a-aae0-4c05-a898-8df7ba7d8082"/>
+<entry key="file_store_id" type="xstring" value="1f668e9d-6b01-4268-83af-49f8a9192339"/>
 </config>
 </config>

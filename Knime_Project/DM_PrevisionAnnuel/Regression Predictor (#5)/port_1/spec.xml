@@ -8,7 +8,7 @@
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 </config>
 <config key="column_domain">
 <config key="lower_bound">
@@ -830,13 +830,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="-16856.00218250194"/>
+<entry key="DoubleCell" type="xdouble" value="-15169.545162025977"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.5183419918969952E7"/>
+<entry key="DoubleCell" type="xdouble" value="5727854.937490671"/>
 </config>
 </config>
 </config>

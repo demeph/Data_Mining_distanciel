@@ -6,8 +6,8 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="has_custom_predicition_name" type="xboolean" value="false"/>
-<entry key="custom_prediction_name" type="xstring" isnull="true" value=""/>
+<entry key="has_custom_predicition_name" type="xboolean" value="true"/>
+<entry key="custom_prediction_name" type="xstring" value="PredictionCapaciteEmprunt"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -30,12 +30,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 2314, Cols: 33"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 1000, Cols: 34"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="85a620c5-5da5-441a-b254-48b68aadc5cd"/>
+<entry key="file_store_id" type="xstring" value="4a153a46-636e-4e78-9b52-79b75a275e70"/>
 </config>
 </config>

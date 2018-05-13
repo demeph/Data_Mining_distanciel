@@ -221,13 +221,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="-20.091269482607796"/>
+<entry key="DoubleCell" type="xdouble" value="-43.1886427821115"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="17629.478396520622"/>
+<entry key="DoubleCell" type="xdouble" value="17613.48981578425"/>
 </config>
 </config>
 </config>
@@ -245,7 +245,7 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.032656519592413766"/>
+<entry key="DoubleCell" type="xdouble" value="0.033768836151009736"/>
 </config>
 </config>
 <config key="upper_bound">
@@ -269,13 +269,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="-9.216602105870702"/>
+<entry key="DoubleCell" type="xdouble" value="-6.946728943869226"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="5.056549017778682"/>
+<entry key="DoubleCell" type="xdouble" value="6.015196359421593"/>
 </config>
 </config>
 </config>
@@ -293,7 +293,7 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
+<entry key="DoubleCell" type="xdouble" value="3.991695862737288E-12"/>
 </config>
 </config>
 <config key="upper_bound">

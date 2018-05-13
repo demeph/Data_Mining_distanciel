@@ -100,22 +100,19 @@
 <entry key="medianMethod" type="xstring" value="Mean of middle values"/>
 </config>
 <config key="resultColName">
-<entry key="array-size" type="xint" value="3"/>
+<entry key="array-size" type="xint" value="2"/>
 <entry key="0" type="xstring" value="Mean"/>
 <entry key="1" type="xstring" value="Median"/>
-<entry key="2" type="xstring" value="Variance"/>
 </config>
 <config key="aggregationMethod">
-<entry key="array-size" type="xint" value="3"/>
+<entry key="array-size" type="xint" value="2"/>
 <entry key="0" type="xstring" value="Mean"/>
 <entry key="1" type="xstring" value="Median_V3.4"/>
-<entry key="2" type="xstring" value="Variance"/>
 </config>
 <config key="inclMissingVals">
-<entry key="array-size" type="xint" value="3"/>
+<entry key="array-size" type="xint" value="2"/>
 <entry key="0" type="xboolean" value="false"/>
 <entry key="1" type="xboolean" value="false"/>
-<entry key="2" type="xboolean" value="false"/>
 </config>
 </config>
 <config key="nodeVersion_Internals">
@@ -145,12 +142,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 11566, Cols: 39"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 11566, Cols: 38"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="1c2c155c-1849-4af6-a49d-ff7f984f3a80"/>
+<entry key="file_store_id" type="xstring" value="d2a26de0-34ba-4430-b8cf-2e4a8b1ec6c9"/>
 </config>
 </config>

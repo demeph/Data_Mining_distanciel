@@ -67,26 +67,26 @@
 </config>
 </config>
 </config>
-<config key="removeAggregationColumns_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="removeAggregationColumns" type="xboolean" value="false"/>
 <config key="removeRetainedColumns_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="removeRetainedColumns" type="xboolean" value="false"/>
-<config key="maxNoneNumericalVals_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<config key="removeAggregationColumns_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="maxNoneNumericalVals" type="xint" value="10000"/>
+<entry key="removeAggregationColumns" type="xboolean" value="false"/>
 <config key="valueDelimiter_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="valueDelimiter" type="xstring" value=", "/>
+<config key="maxNoneNumericalVals_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="maxNoneNumericalVals" type="xint" value="10000"/>
 <config key="aggregationMethods">
 <config key="Median_V3.4_Median">
 <config key="medianMethod_Internals">
@@ -144,6 +144,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="f5b1ae4d-d5cf-4c84-8722-26ef2421ac66"/>
+<entry key="file_store_id" type="xstring" value="ef2385c2-7e03-4a99-b98c-1341932aefc8"/>
 </config>
 </config>
