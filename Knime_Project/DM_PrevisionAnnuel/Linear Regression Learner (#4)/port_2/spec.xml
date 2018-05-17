@@ -221,13 +221,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="-43.1886427821115"/>
+<entry key="DoubleCell" type="xdouble" value="-28.093565050352808"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="17613.48981578425"/>
+<entry key="DoubleCell" type="xdouble" value="17642.081481784255"/>
 </config>
 </config>
 </config>
@@ -245,7 +245,7 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.033768836151009736"/>
+<entry key="DoubleCell" type="xdouble" value="0.035961471966938725"/>
 </config>
 </config>
 <config key="upper_bound">
@@ -269,13 +269,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="-6.946728943869226"/>
+<entry key="DoubleCell" type="xdouble" value="-4.07296854217763"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="6.015196359421593"/>
+<entry key="DoubleCell" type="xdouble" value="7.387272713598298"/>
 </config>
 </config>
 </config>
@@ -293,7 +293,7 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="3.991695862737288E-12"/>
+<entry key="DoubleCell" type="xdouble" value="1.6475709685437323E-13"/>
 </config>
 </config>
 <config key="upper_bound">

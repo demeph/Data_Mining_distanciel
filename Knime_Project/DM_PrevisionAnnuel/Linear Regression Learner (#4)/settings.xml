@@ -67,7 +67,7 @@
 </config>
 <entry key="include_constant" type="xboolean" value="true"/>
 <entry key="offset_value" type="xdouble" value="0.0"/>
-<entry key="missing_value_handling" type="xstring" value="ignore"/>
+<entry key="missing_value_handling" type="xstring" value="fail"/>
 <entry key="scatter_plot_first_row" type="xint" value="1"/>
 <entry key="scatter_plot_row_count" type="xint" value="20000"/>
 </config>
@@ -107,6 +107,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="62001550-9c46-44fd-96cb-9ad5ffd7f852"/>
+<entry key="file_store_id" type="xstring" value="081dcf63-da8b-452f-9105-2f61661e5944"/>
 </config>
 </config>

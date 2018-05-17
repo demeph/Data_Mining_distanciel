@@ -27,7 +27,7 @@
 <config key="columnFilterConfig">
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
-<entry key="array-size" type="xint" value="33"/>
+<entry key="array-size" type="xint" value="31"/>
 <entry key="0" type="xstring" value="NbSalaries"/>
 <entry key="1" type="xstring" value="P1"/>
 <entry key="2" type="xstring" value="P2"/>
@@ -59,8 +59,6 @@
 <entry key="28" type="xstring" value="P28"/>
 <entry key="29" type="xstring" value="P29"/>
 <entry key="30" type="xstring" value="P30"/>
-<entry key="31" type="xstring" value="Median"/>
-<entry key="32" type="xstring" value="Mode"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -118,6 +116,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="c6b401eb-07ec-4ded-b4b6-c5b0cc0d5440"/>
+<entry key="file_store_id" type="xstring" value="ea36fc77-041e-49c9-95c8-6c7ca8a21cec"/>
 </config>
 </config>

@@ -498,6 +498,10 @@
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="CONFIGURED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="ERROR"/>
+<entry key="message" type="xstring" value="Execute failed: Too many data elements (line: 2 (Row0), source: 'knime://LOCAL/Alphaprise_donnees_test.csv')"/>
+</config>
 <entry key="factory" type="xstring" value="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
 <entry key="node-name" type="xstring" value="File Reader"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>

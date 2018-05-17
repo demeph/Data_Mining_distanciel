@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="DataURL" type="xstring" value="knime://LOCAL/DM/Alphaprise_donnees_apprentissage.csv"/>
+<entry key="DataURL" type="xstring" value="file:/C:/Users/Deme/Documents/GitHub/Data_Mining_distanciel/Knime_Project/Alphaprise_donnees_apprentissage_nettoyees_v2.csv"/>
 <config key="Delimiters">
 <config key="Delim0">
 <entry key="pattern" type="xstring" value="%%00010"/>
@@ -94,7 +94,7 @@
 <entry key="SkipThisColumn" type="xboolean" value="false"/>
 <entry key="ColumnName" type="xstring" value="Secteur2"/>
 <config key="ColumnClass">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <entry key="is_null" type="xboolean" value="false"/>
 </config>
 </config>
@@ -111,7 +111,7 @@
 </config>
 </config>
 <config key="3">
-<entry key="UserSetValues" type="xboolean" value="false"/>
+<entry key="UserSetValues" type="xboolean" value="true"/>
 <entry key="MissValuePattern" type="xstring" isnull="true" value=""/>
 <entry key="FormatParameter" type="xstring" isnull="true" value=""/>
 <entry key="ReadPossValsFromFile" type="xboolean" value="false"/>
@@ -535,6 +535,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="1504bfed-d05e-4bb2-80b3-e2f5b046b5b3"/>
+<entry key="file_store_id" type="xstring" value="73c79940-c08d-4bbd-a0c5-e907d24b7ee2"/>
 </config>
 </config>
