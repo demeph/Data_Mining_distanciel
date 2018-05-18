@@ -1,0 +1,8 @@
+knime://LOCAL/Alphaprise_donnees_test.csv
+file:/C:/Users/Deme/Documents/GitHub/Data_Mining_distanciel/Knime_Project/Alphaprise_donnees_apprentissage_nettoyees_v2.csv
+knime://LOCAL/Alphaprise_donnees_apprentissage_nettoyees_v2.csv
+knime://knime.workflow/data.all
+knime://LOCAL/DM/Alphaprise_previsionAnnuel.csv
+knime://LOCAL/DM/Alphaprise_donnees_apprentissage.csv
+C:\Users\Deme\Documents\GitHub\Data_Mining_distanciel\Knime_Project\Alphaprise_donnees_apprentissage_nettoyees_v2.csv
+file:/home/demna/knime-workspace/DM/Alphaprise_CapaciteEmprunt.csv
