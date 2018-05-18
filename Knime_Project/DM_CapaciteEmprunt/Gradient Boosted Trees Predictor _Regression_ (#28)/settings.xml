@@ -6,8 +6,8 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="predictionColumnName" type="xstring" value="Prediction (CapaciteEmprunt)"/>
-<entry key="changePredictionColumnName" type="xboolean" value="false"/>
+<entry key="predictionColumnName" type="xstring" value="PredictionCapaciteEmprunt"/>
+<entry key="changePredictionColumnName" type="xboolean" value="true"/>
 <entry key="appendPredictionConfidence" type="xboolean" value="true"/>
 <entry key="appendClassConfidences" type="xboolean" value="false"/>
 <entry key="appendModelCount" type="xboolean" value="false"/>
@@ -41,6 +41,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="d367ab71-63b0-4ab2-99e2-1b26994fd5a4"/>
+<entry key="file_store_id" type="xstring" value="7a146d1c-cf7e-408e-b92e-f23174aa2dfa"/>
 </config>
 </config>
